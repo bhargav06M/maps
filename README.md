@@ -1,1 +1,1 @@
-# student
+the student belongs to ECE
